@@ -2,7 +2,7 @@
     "name": "delayedcommand",
     "displayName": "DelayedCommand",
     "description": "Executes a command later",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "publisher": "sqreept",
     "engines": {
         "vscode": "^1.18.0"
