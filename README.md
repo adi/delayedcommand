@@ -4,7 +4,7 @@ Allows delayed execution of a command
 
 ## Usage
 
-The example below uses delayedcommand.run to close and annoying notification after 100ms making it mostly invisible ;-)
+The example below uses delayedcommand.run to close an annoying notification after 100ms making it mostly invisible ;-)
 
 ```json
     "macros": {
